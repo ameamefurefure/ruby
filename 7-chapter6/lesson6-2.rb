@@ -14,5 +14,5 @@ for i in 1..n do
   puts "#{a}-#{b}=#{a-b}"
   puts "#{a}*#{b}=#{a*b}"
   puts "#{a}/#{b}=#{a/b}"
-end  
+end
 puts "計算を終了します"
